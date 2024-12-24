@@ -1,0 +1,4 @@
+MST found with Kruskal's algorithm:
+( 0, 1) = 3
+( 1, 2) = 2
+( 1, 3) = 1
